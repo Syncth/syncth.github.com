@@ -1,4 +1,0 @@
-syncth
-======
-
-Syncth
